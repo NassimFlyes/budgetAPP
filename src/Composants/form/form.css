@@ -1,0 +1,24 @@
+.form{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 0;
+    border: #6DA8E2 1px solid;
+    border-radius: 15px;
+    box-shadow: #0971C9 4px 4px 4px 4px;
+    padding: 30px;
+}
+.mn ,.fd ,.tr, .cs{
+    display: flex;
+    margin: 7px;
+    gap: 10px;
+    justify-content: space-around;
+    
+}
+.btn{
+    margin-left: 10px;
+}
+.bn{
+    display: flex;
+    justify-content: center;
+}
